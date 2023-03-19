@@ -1,0 +1,160 @@
+---
+title: "**Premier League Rest of the Season Predictions 2022-23**"
+author: "Abhijith.M"
+date: "2023-03-16"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+---
+
+
+# Current PL table after 26 Match days
+
+```{r echo=FALSE, fig.align = "left",fig.cap = "Pl table after 26 matchdays"}
+table<-load("/cloud/project/table")
+table1<-table %>% select(-Predictions,-Final.points)
+View(table1)
+```
+
+# Premier League Title Prediction
+
+Mikel Arteta’s Arsenal is holding a five point advantage over Manchester City, and find themselves in first place in the Premier League at mid season. **14** of the last **18** teams to be in first place on Christmas day have ended the season as Premier League champions with a success rate of 78%, including Manchester City last year. But Manchester City is the only team who toppled the side top at Christmas in last two instances (Liverpool in 2018-19 and 2020-21).
+
+* In the last six games Manchester city and Arsenal are the teams in the best form, 
+taking **16** and **15** points respectively from possible **18 points**.
+
+## Conclusion
+
+It will be a neck and neck title race between the two teams at the top of the table, a slip up from one side could see them finishing in the second position and the other lifting the Premier League trophy.
+
+```{r echo=FALSE, fig.align = "left",fig.cap = "Title race Predictions"}
+final <-load("/cloud/project/final")
+
+ gg<-final %>%
+   ggplot(aes(x=Match.day,y=Points,color=Team,linetype=Match))+ geom_line()+
+   labs(title="Predicted Point graph from matchday 27",
+        subtitle="Actual till matchday 26 vs Forecast from matchday 27 to 38")
+ 
+ gg+scale_colour_manual(values = c(  "red","grey","grey","grey",
+                                     "grey","grey","grey","grey","grey","grey",
+                                       
+                                      "grey","grey","dodgerblue2","grey","grey",
+                                      "grey","grey","grey","grey","grey"))
+```
+
+# Who Will Qualify for the Champions League?
+
+## First and Second position
+
+For **Arsenal**, a first Premier League title since 2003-04 is certainly a possibility and they are currently the team with the highest chance of qualifying (**96%**) for the Champions League. Only surpassed by **Manchester City** (**99%**).
+
+## Third poistion
+
+**Liverpool** has the next highest chance of securing Champions League qualification and finishing in **third** position (**76.2%**) when looking at their form in last in the last 6 league games, 
+
+* Taking away **13** points out of possible **18**. The *Third most* in form team only behind the two table toppers and the best and the best defense in the same time period, conceding only **once** in last **6** games. 
+
+* However they are have been *less consistent* when playing **Away** this season, only having **12** points from a possible **39** points in *13 Away* games. This is a worrying trend.  
+
+## Forth position
+
+The battle for the **fourth** and final Champions League spot is will be the *most fierce*, with *Newcastle, Tottenham* and *Manchester United* separated by mere difference in points.
+
+* **Tottenham** currently holds the Forth position, closely followed by Liverpool and Newcastle United.
+
+* **Manchester United** was resurrected after the World cup and currently stands at third position but their form has been in steady decline, taking only **11** points from the last 6 matches (conceding **10** goals).
+
+* Despite currently sitting in *sixth* place, **Newcastle United** also have a chance of securing Champions League qualification. They have the *strongest defense* in the league conceding only **18** goals in **25** matches as well as has **two extra games** than their competitors. 
+  
+* Speaking of **Chelsea**, the model predicts them to finish in the **10** th position.
+
+```{r echo=FALSE, fig.align = "left",fig.cap = "Champions League race"}
+ gg+scale_colour_manual(values = c( "white","white","white","white",
+                                    "white","blue2","white","white","white",
+                                    "white","white", "red4", "white","red3",
+                                    "grey55","white","white","grey15",
+                                    "white","white"))                         
+```
+
+# Relegation battle 
+
+After Match day 26 the battle for safety from relegation to the second tier is getting more ferocious, only 3 points separating the last 6 places.
+
+```{r echo=FALSE, fig.align = "left",out.width='25%'}
+position <- c(15:20)                                
+Team<- c( "Leicester City", "West Ham Utd","Leeds Utd","Everton","Southampton",
+          "Bournemouth")
+Points<-c(24,23,22,22,21,21)
+tb<-data.frame(position,Team,Points)
+View(tb)
+
+```
+
+```{r echo=FALSE, fig.align = "left",fig.cap="Relegation battle"}
+
+ gg+scale_colour_manual(values = c( "white","white","darkred","white","white",
+                                           "white","white","navy","white",
+                                         "gold2","white","white", "white","white",
+                                         "white","firebrick3","brown4","white",
+                                         "white","white"))
+                                         
+```
+
+* *Everton, Southampton* and *Bournemouth* are the teams on bottom of the table, and thier current form of taking **6**,**6**and **5** points respectively from a possibe *18* also suggest these team relegated to the second tier when the season is over.
+
+* Also *Leeds Utd, Crystal Palace* and *Nottm Forest* are the teams with the worst form in the past 6 league games, taking **3**,**3** and **2** points respectively. 
+
+## Conclusion
+
+With only **4** point difference between the *bottom 3* positions of the table (18,19 and 20) and the **4** teams *above the drop zone* on top we can see a (14,15,16 and 17), the battle for safety from being demoted will be tight.
+
+# Summary
+
+### Title race between **Arsenal** and **Manchester city**,
+
+* Will be neck and neck, separated by **5** points and will be determined by the each teams performance.
+
+* Both teams have equally challenging fixtures.
+
+* **Erling Haaland** current form could spearhead Manchester City to their **third** consecutive title. 
+
+* Arsenal see the return of their best striker **G. Jesus**, which could favour them.
+
+### Battle for Champion League positions
+
+* **Liverpool** are in the best form of thier season and could see themselves fiish in the **third** position.
+
+* *Newcastle, Tottenham* and *Manchester United* will contest for the Forth position.
+
+### Relegation
+
+* **Position 20 - Southampton** has a high chance of finishing on bottom of the table when considering their current form and also out of the 12 matches, **5** of them are against the **Big 6** teams.
+
+* **Position 19 - Everton** is the team with the hardest fixtures in the next 12 matches, against **all Big 6** teams along with in form **Newcastle United** and **Fulham**.
+
+* **Position 18 - Nottm Forest** has the worst form in the league and been in steady decline after the World Cup 2022.
+
+* **Bournemouth** and **Leeds United** will avoid relegation by the smallest of margins, if they play in their current form.
+
+```{r echo=FALSE, fig.align = "left",fig.cap="Predicted league points forecast from Match day 27"}
+gg+scale_colour_manual(values = c( "red","brown","darkred","red2","royalblue","blue2","darkviolet","navy","black","gold2","darkblue",
+                                   "red4", "dodgerblue2","red3",  "grey28","firebrick3","brown4","grey15","maroon", "yellow1"))
+                                         
+```
+
+## Predicted League table after Match day 38
+
+```{r echo=FALSE, fig.align = "left",out.width='40%'}
+table2<-table %>% select(Team,Predictions,Final.points) %>% arrange(-Final.points)
+View(table2)
+
+```
+
+# Assumptions
+
+* The Prediction model is based on results of 10 match days post World Cup break and their recent game data.
+
+* The forecast points result is based on the form of teams in the prior 26 Match days. 
+
+Data source link - [**soccerstats.com**](https://www.soccerstats.com/formtable.asp?league=england)
