@@ -2,10 +2,8 @@
 title: "**Premier League Rest of the Season Predictions 2022-23**"
 author: "Abhijith.M"
 date: "2023-03-16"
-output:
-  pdf_document: default
-  html_document:
-    df_print: paged
+output: pdf_document: default
+html_document: df_print: paged
 ---
 
 
