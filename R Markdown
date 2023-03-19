@@ -27,7 +27,7 @@ taking **16** and **15** points respectively from possible **18 points**.
 It will be a neck and neck title race between the two teams at the top of the table, a slip up from one side could see them finishing in the second position and the other lifting the Premier League trophy.
 
 ```{r echo=FALSE, fig.align = "left",fig.cap = "Title race Predictions"}
-final <-load("/cloud/project/final")
+final <-load("/cloud/project/FINAL1")
 
  gg<-final %>%
    ggplot(aes(x=Match.day,y=Points,color=Team,linetype=Match))+ geom_line()
