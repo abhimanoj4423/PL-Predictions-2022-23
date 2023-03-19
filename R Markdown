@@ -32,9 +32,7 @@ It will be a neck and neck title race between the two teams at the top of the ta
 final <-load("/cloud/project/final")
 
  gg<-final %>%
-   ggplot(aes(x=Match.day,y=Points,color=Team,linetype=Match))+ geom_line()+
-   labs(title="Predicted Point graph from matchday 27",
-        subtitle="Actual till matchday 26 vs Forecast from matchday 27 to 38")
+   ggplot(aes(x=Match.day,y=Points,color=Team,linetype=Match))+ geom_line()
  
  gg+scale_colour_manual(values = c(  "red","grey","grey","grey",
                                      "grey","grey","grey","grey","grey","grey",
@@ -138,7 +136,8 @@ With only **4** point difference between the *bottom 3* positions of the table (
 * **Bournemouth** and **Leeds United** will avoid relegation by the smallest of margins, if they play in their current form.
 
 ```{r echo=FALSE, fig.align = "left",fig.cap="Predicted league points forecast from Match day 27"}
-gg+scale_colour_manual(values = c( "red","brown","darkred","red2","royalblue","blue2","darkviolet","navy","black","gold2","darkblue",
+gg+labs(title="Predicted Point graph from matchday 27", subtitle="Actual till matchday 26 vs Forecast from matchday 27 to 38")
+   +scale_colour_manual(values = c( "red","brown","darkred","red2","royalblue","blue2","darkviolet","navy","black","gold2","darkblue",
                                    "red4", "dodgerblue2","red3",  "grey28","firebrick3","brown4","grey15","maroon", "yellow1"))
                                          
 ```
