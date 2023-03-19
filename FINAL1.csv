@@ -1,0 +1,489 @@
+Match,Match day,Team,Pts,Points
+MD,0,Arsenal,37,37
+MD,7,Arsenal,3,40
+MD,12,Arsenal,0,40
+MD,17,Arsenal,3,43
+MD,18,Arsenal,3,46
+MD,19,Arsenal,1,47
+MD,20,Arsenal,3,50
+MD,21,Arsenal,3,53
+MD,22,Arsenal,0,53
+MD,23,Arsenal,1,54
+MD,24,Arsenal,3,57
+MD,25,Arsenal,3,60
+MD,26,Arsenal,3,63
+PMD,27,Arsenal,3,66
+PMD,28,Arsenal,3,69
+PMD,29,Arsenal,3,72
+PMD,30,Arsenal,0,72
+PMD,31,Arsenal,3,75
+PMD,32,Arsenal,3,78
+PMD,33,Arsenal,0,78
+PMD,34,Arsenal,3,81
+PMD,35,Arsenal,3,84
+PMD,36,Arsenal,3,87
+PMD,37,Arsenal,3,90
+PMD,38,Arsenal,3,93
+MD,0,Aston Villa,18,18
+MD,7,Aston Villa,0,18
+MD,17,Aston Villa,0,18
+MD,18,Aston Villa,3,21
+MD,19,Aston Villa,1,22
+MD,20,Aston Villa,3,25
+MD,21,Aston Villa,3,28
+MD,22,Aston Villa,0,28
+MD,23,Aston Villa,0,28
+MD,24,Aston Villa,0,28
+MD,25,Aston Villa,3,31
+MD,26,Aston Villa,3,34
+PMD,27,Aston Villa,0,34
+PMD,28,Aston Villa,3,37
+PMD,29,Aston Villa,0,37
+PMD,30,Aston Villa,3,40
+PMD,31,Aston Villa,0,40
+PMD,32,Aston Villa,0,40
+PMD,33,Aston Villa,1,41
+PMD,34,Aston Villa,0,41
+PMD,35,Aston Villa,1,42
+PMD,36,Aston Villa,1,43
+PMD,37,Aston Villa,0,43
+PMD,38,Aston Villa,1,44
+MD,0,Bournemouth,16,16
+MD,7,Bournemouth,0,16
+MD,17,Bournemouth,0,16
+MD,18,Bournemouth,0,16
+MD,19,Bournemouth,0,16
+MD,20,Bournemouth,0,16
+MD,21,Bournemouth,1,17
+MD,22,Bournemouth,0,17
+MD,23,Bournemouth,1,18
+MD,24,Bournemouth,3,21
+MD,25,Bournemouth,0,21
+MD,26,Bournemouth,0,21
+PMD,27,Bournemouth,1,22
+PMD,28,Bournemouth,0,22
+PMD,29,Bournemouth,0,22
+PMD,30,Bournemouth,3,25
+PMD,31,Bournemouth,0,25
+PMD,32,Bournemouth,3,28
+PMD,33,Bournemouth,0,28
+PMD,34,Bournemouth,3,31
+PMD,35,Bournemouth,1,32
+PMD,36,Bournemouth,0,32
+PMD,37,Bournemouth,0,32
+PMD,38,Bournemouth,0,32
+MD,0,Brentford,19,19
+MD,7,Brentford,1,20
+MD,17,Brentford,1,21
+MD,18,Brentford,3,24
+MD,19,Brentford,3,27
+MD,20,Brentford,3,30
+MD,21,Brentford,1,31
+MD,22,Brentford,3,34
+MD,23,Brentford,1,35
+MD,24,Brentford,1,36
+MD,25,Brentford,0,36
+MD,26,Brentford,3,39
+PMD,27,Brentford,1,40
+PMD,28,Brentford,3,43
+PMD,29,Brentford,0,43
+PMD,30,Brentford,3,46
+PMD,31,Brentford,1,47
+PMD,32,Brentford,3,50
+PMD,33,Brentford,0,50
+PMD,34,Brentford,3,53
+PMD,35,Brentford,0,53
+PMD,36,Brentford,3,56
+PMD,37,Brentford,0,56
+PMD,38,Brentford,1,57
+MD,0,Brighton,21,21
+MD,7,Brighton,3,24
+MD,8,Brighton,3,27
+MD,17,Brighton,3,30
+MD,18,Brighton,0,30
+MD,19,Brighton,3,33
+MD,20,Brighton,3,36
+MD,21,Brighton,1,37
+MD,22,Brighton,3,40
+MD,23,Brighton,1,41
+MD,24,Brighton,0,41
+MD,25,Brighton,1,42
+MD,26,Brighton,3,45
+PMD,27,Brighton,3,48
+PMD,28,Brighton,3,51
+PMD,29,Brighton,3,54
+PMD,30,Brighton,1,55
+PMD,31,Brighton,1,56
+PMD,32,Brighton,1,57
+PMD,33,Brighton,1,58
+PMD,34,Brighton,3,61
+PMD,35,Brighton,3,64
+PMD,36,Brighton,0,64
+PMD,37,Brighton,3,67
+PMD,38,Brighton,1,68
+MD,0,Chelsea,21,21
+MD,7,Chelsea,0,21
+MD,8,Chelsea,3,24
+MD,17,Chelsea,3,27
+MD,18,Chelsea,1,28
+MD,19,Chelsea,0,28
+MD,20,Chelsea,3,31
+MD,21,Chelsea,1,32
+MD,22,Chelsea,1,33
+MD,23,Chelsea,1,34
+MD,24,Chelsea,0,34
+MD,25,Chelsea,0,34
+MD,26,Chelsea,3,37
+PMD,27,Chelsea,0,37
+PMD,28,Chelsea,3,40
+PMD,29,Chelsea,3,43
+PMD,30,Chelsea,1,44
+PMD,31,Chelsea,1,45
+PMD,32,Chelsea,0,45
+PMD,33,Chelsea,3,48
+PMD,34,Chelsea,0,48
+PMD,35,Chelsea,1,49
+PMD,36,Chelsea,3,52
+PMD,37,Chelsea,0,52
+PMD,38,Chelsea,1,53
+MD,0,Crystal Palace,19,19
+MD,7,Crystal Palace,1,20
+MD,8,Crystal Palace,0,20
+MD,17,Crystal Palace,0,20
+MD,18,Crystal Palace,3,23
+MD,19,Crystal Palace,0,23
+MD,20,Crystal Palace,0,23
+MD,21,Crystal Palace,1,24
+MD,22,Crystal Palace,0,24
+MD,23,Crystal Palace,1,25
+MD,24,Crystal Palace,1,26
+MD,25,Crystal Palace,1,27
+MD,26,Crystal Palace,0,27
+PMD,27,Crystal Palace,0,27
+PMD,28,Crystal Palace,0,27
+PMD,29,Crystal Palace,1,28
+PMD,30,Crystal Palace,0,28
+PMD,31,Crystal Palace,1,29
+PMD,32,Crystal Palace,3,32
+PMD,33,Crystal Palace,1,33
+PMD,34,Crystal Palace,3,36
+PMD,35,Crystal Palace,0,36
+PMD,36,Crystal Palace,3,39
+PMD,37,Crystal Palace,0,39
+PMD,38,Crystal Palace,3,42
+MD,0,Everton,14,14
+MD,7,Everton,0,14
+MD,17,Everton,0,14
+MD,18,Everton,1,15
+MD,19,Everton,0,15
+MD,20,Everton,1,16
+MD,21,Everton,0,16
+MD,22,Everton,3,19
+MD,23,Everton,0,19
+MD,24,Everton,3,22
+MD,25,Everton,0,22
+MD,26,Everton,1,23
+PMD,27,Everton,1,24
+PMD,28,Everton,0,24
+PMD,29,Everton,0,24
+PMD,30,Everton,0,24
+PMD,31,Everton,0,24
+PMD,32,Everton,0,24
+PMD,33,Everton,0,24
+PMD,34,Everton,3,27
+PMD,35,Everton,0,27
+PMD,36,Everton,0,27
+PMD,37,Everton,0,27
+PMD,38,Everton,3,30
+MD,0,Fulham,19,19
+MD,7,Fulham,3,22
+MD,17,Fulham,3,25
+MD,18,Fulham,3,28
+MD,19,Fulham,3,31
+MD,20,Fulham,0,31
+MD,21,Fulham,0,31
+MD,22,Fulham,1,32
+MD,23,Fulham,3,35
+MD,24,Fulham,3,38
+MD,25,Fulham,1,39
+MD,26,Fulham,0,39
+PMD,27,Fulham,0,39
+PMD,28,Fulham,0,39
+PMD,29,Fulham,3,42
+PMD,30,Fulham,3,45
+PMD,31,Fulham,3,48
+PMD,32,Fulham,3,51
+PMD,33,Fulham,1,52
+PMD,34,Fulham,0,52
+PMD,35,Fulham,3,55
+PMD,36,Fulham,3,58
+PMD,37,Fulham,3,61
+PMD,38,Fulham,0,61
+MD,0,Leeds Utd,15,15
+MD,7,Leeds Utd,3,18
+MD,8,Leeds Utd,1,19
+MD,17,Leeds Utd,0,19
+MD,18,Leeds Utd,1,20
+MD,19,Leeds Utd,1,21
+MD,20,Leeds Utd,0,21
+MD,21,Leeds Utd,1,22
+MD,22,Leeds Utd,0,22
+MD,23,Leeds Utd,0,22
+MD,24,Leeds Utd,0,22
+MD,25,Leeds Utd,3,25
+MD,26,Leeds Utd,0,25
+PMD,27,Leeds Utd,0,25
+PMD,28,Leeds Utd,0,25
+PMD,29,Leeds Utd,0,25
+PMD,30,Leeds Utd,3,28
+PMD,31,Leeds Utd,0,28
+PMD,32,Leeds Utd,0,28
+PMD,33,Leeds Utd,3,31
+PMD,34,Leeds Utd,0,31
+PMD,35,Leeds Utd,0,31
+PMD,36,Leeds Utd,0,31
+PMD,37,Leeds Utd,0,31
+PMD,38,Leeds Utd,1,32
+MD,0,Leicester City,17,17
+MD,7,Leicester City,3,20
+MD,17,Leicester City,0,20
+MD,18,Leicester City,0,20
+MD,19,Leicester City,0,20
+MD,20,Leicester City,0,20
+MD,21,Leicester City,1,21
+MD,22,Leicester City,3,24
+MD,23,Leicester City,3,27
+MD,24,Leicester City,0,27
+MD,25,Leicester City,0,27
+MD,26,Leicester City,0,27
+PMD,27,Leicester City,3,30
+PMD,28,Leicester City,0,30
+PMD,29,Leicester City,1,31
+PMD,30,Leicester City,0,31
+PMD,31,Leicester City,1,32
+PMD,32,Leicester City,0,32
+PMD,33,Leicester City,0,32
+PMD,34,Leicester City,0,32
+PMD,35,Leicester City,0,32
+PMD,36,Leicester City,0,32
+PMD,37,Leicester City,0,32
+PMD,38,Leicester City,3,35
+MD,0,Liverpool,22,22
+MD,7,Liverpool,3,25
+MD,8,Liverpool,0,25
+MD,17,Liverpool,3,28
+MD,18,Liverpool,3,31
+MD,19,Liverpool,0,31
+MD,20,Liverpool,0,31
+MD,21,Liverpool,1,32
+MD,22,Liverpool,0,32
+MD,23,Liverpool,3,35
+MD,24,Liverpool,3,38
+MD,25,Liverpool,1,39
+MD,26,Liverpool,3,42
+PMD,27,Liverpool,1,43
+PMD,28,Liverpool,3,46
+PMD,29,Liverpool,0,46
+PMD,30,Liverpool,3,49
+PMD,31,Liverpool,3,52
+PMD,32,Liverpool,3,55
+PMD,33,Liverpool,3,58
+PMD,34,Liverpool,3,61
+PMD,35,Liverpool,3,64
+PMD,36,Liverpool,3,67
+PMD,37,Liverpool,3,70
+PMD,38,Liverpool,3,73
+MD,0,Manchester City,32,32
+MD,7,Manchester City,3,35
+MD,12,Manchester City,3,38
+MD,17,Manchester City,3,41
+MD,18,Manchester City,1,42
+MD,19,Manchester City,3,45
+MD,20,Manchester City,0,45
+MD,21,Manchester City,3,48
+MD,22,Manchester City,0,48
+MD,23,Manchester City,3,51
+MD,24,Manchester City,1,52
+MD,25,Manchester City,3,55
+MD,26,Manchester City,3,58
+PMD,27,Manchester City,3,61
+PMD,28,Manchester City,3,64
+PMD,29,Manchester City,3,67
+PMD,30,Manchester City,3,70
+PMD,31,Manchester City,3,73
+PMD,32,Manchester City,1,74
+PMD,33,Manchester City,3,77
+PMD,34,Manchester City,3,80
+PMD,35,Manchester City,3,83
+PMD,36,Manchester City,3,86
+PMD,37,Manchester City,3,89
+PMD,38,Manchester City,1,90
+MD,0,Manchester Utd,26,26
+MD,7,Manchester Utd,1,27
+MD,8,Manchester Utd,1,28
+MD,17,Manchester Utd,3,31
+MD,18,Manchester Utd,3,34
+MD,19,Manchester Utd,3,37
+MD,20,Manchester Utd,3,40
+MD,21,Manchester Utd,0,40
+MD,22,Manchester Utd,3,43
+MD,23,Manchester Utd,3,46
+MD,24,Manchester Utd,3,49
+MD,25,Manchester Utd,3,52
+MD,26,Manchester Utd,0,52
+PMD,27,Manchester Utd,1,53
+PMD,28,Manchester Utd,0,53
+PMD,29,Manchester Utd,3,56
+PMD,30,Manchester Utd,3,59
+PMD,31,Manchester Utd,3,62
+PMD,32,Manchester Utd,0,62
+PMD,33,Manchester Utd,0,62
+PMD,34,Manchester Utd,3,65
+PMD,35,Manchester Utd,1,66
+PMD,36,Manchester Utd,3,69
+PMD,37,Manchester Utd,3,72
+PMD,38,Manchester Utd,3,75
+MD,0,Newcastle Utd,30,30
+MD,7,Newcastle Utd,3,33
+MD,17,Newcastle Utd,3,36
+MD,18,Newcastle Utd,1,37
+MD,19,Newcastle Utd,1,38
+MD,20,Newcastle Utd,3,41
+MD,21,Newcastle Utd,1,42
+MD,22,Newcastle Utd,1,43
+MD,23,Newcastle Utd,1,44
+MD,24,Newcastle Utd,0,44
+MD,25,Newcastle Utd,1,45
+MD,26,Newcastle Utd,0,45
+PMD,27,Newcastle Utd,3,48
+PMD,28,Newcastle Utd,3,51
+PMD,29,Newcastle Utd,0,51
+PMD,30,Newcastle Utd,0,51
+PMD,31,Newcastle Utd,3,54
+PMD,32,Newcastle Utd,3,57
+PMD,33,Newcastle Utd,3,60
+PMD,34,Newcastle Utd,3,63
+PMD,35,Newcastle Utd,0,63
+PMD,36,Newcastle Utd,3,66
+PMD,37,Newcastle Utd,3,69
+PMD,38,Newcastle Utd,1,70
+MD,0,Nottm Forest,13,13
+MD,7,Nottm Forest,0,13
+MD,17,Nottm Forest,0,13
+MD,18,Nottm Forest,1,14
+MD,19,Nottm Forest,3,17
+MD,20,Nottm Forest,3,20
+MD,21,Nottm Forest,1,21
+MD,22,Nottm Forest,3,24
+MD,23,Nottm Forest,0,24
+MD,24,Nottm Forest,1,25
+MD,25,Nottm Forest,0,25
+MD,26,Nottm Forest,1,26
+PMD,27,Nottm Forest,0,26
+PMD,28,Nottm Forest,0,26
+PMD,29,Nottm Forest,3,29
+PMD,30,Nottm Forest,0,29
+PMD,31,Nottm Forest,0,29
+PMD,32,Nottm Forest,0,29
+PMD,33,Nottm Forest,1,30
+PMD,34,Nottm Forest,0,30
+PMD,35,Nottm Forest,0,30
+PMD,36,Nottm Forest,0,30
+PMD,37,Nottm Forest,0,30
+PMD,38,Nottm Forest,0,30
+MD,0,Southampton,12,12
+MD,7,Southampton,1,13
+MD,17,Southampton,0,13
+MD,18,Southampton,0,13
+MD,19,Southampton,0,13
+MD,20,Southampton,1,14
+MD,21,Southampton,0,14
+MD,22,Southampton,0,14
+MD,23,Southampton,0,14
+MD,24,Southampton,3,17
+MD,25,Southampton,0,17
+MD,26,Southampton,3,20
+PMD,27,Southampton,1,21
+PMD,28,Southampton,0,21
+PMD,29,Southampton,0,21
+PMD,30,Southampton,0,21
+PMD,31,Southampton,1,22
+PMD,32,Southampton,0,22
+PMD,33,Southampton,3,25
+PMD,34,Southampton,0,25
+PMD,35,Southampton,3,28
+PMD,36,Southampton,0,28
+PMD,37,Southampton,0,28
+PMD,38,Southampton,0,28
+MD,0,Tottenham,29,29
+MD,7,Tottenham,0,29
+MD,17,Tottenham,1,30
+MD,18,Tottenham,0,30
+MD,19,Tottenham,3,33
+MD,20,Tottenham,0,33
+MD,21,Tottenham,3,36
+MD,22,Tottenham,3,39
+MD,23,Tottenham,0,39
+MD,24,Tottenham,3,42
+MD,25,Tottenham,3,45
+MD,26,Tottenham,0,45
+PMD,27,Tottenham,3,48
+PMD,28,Tottenham,3,51
+PMD,29,Tottenham,3,54
+PMD,30,Tottenham,1,55
+PMD,31,Tottenham,3,58
+PMD,32,Tottenham,0,58
+PMD,33,Tottenham,3,61
+PMD,34,Tottenham,0,61
+PMD,35,Tottenham,3,64
+PMD,36,Tottenham,1,65
+PMD,37,Tottenham,3,68
+PMD,38,Tottenham,1,69
+MD,0,West Ham Utd,14,14
+MD,7,West Ham Utd,0,14
+MD,17,West Ham Utd,0,14
+MD,18,West Ham Utd,0,14
+MD,19,West Ham Utd,1,15
+MD,20,West Ham Utd,0,15
+MD,21,West Ham Utd,3,18
+MD,22,West Ham Utd,1,19
+MD,23,West Ham Utd,1,20
+MD,24,West Ham Utd,0,20
+MD,25,West Ham Utd,3,23
+MD,26,West Ham Utd,0,23
+PMD,27,West Ham Utd,3,26
+PMD,28,West Ham Utd,0,26
+PMD,29,West Ham Utd,3,29
+PMD,30,West Ham Utd,0,29
+PMD,31,West Ham Utd,0,29
+PMD,32,West Ham Utd,0,29
+PMD,33,West Ham Utd,0,29
+PMD,34,West Ham Utd,0,29
+PMD,35,West Ham Utd,1,30
+PMD,36,West Ham Utd,0,30
+PMD,37,West Ham Utd,3,33
+PMD,38,West Ham Utd,0,33
+MD,0,Wolverhampton,10,10
+MD,7,Wolverhampton,0,10
+MD,17,Wolverhampton,3,13
+MD,18,Wolverhampton,0,13
+MD,19,Wolverhampton,1,14
+MD,20,Wolverhampton,3,17
+MD,21,Wolverhampton,0,17
+MD,22,Wolverhampton,3,20
+MD,23,Wolverhampton,3,23
+MD,24,Wolverhampton,0,23
+MD,25,Wolverhampton,1,24
+MD,26,Wolverhampton,3,27
+PMD,27,Wolverhampton,0,27
+PMD,28,Wolverhampton,3,30
+PMD,29,Wolverhampton,0,30
+PMD,30,Wolverhampton,1,31
+PMD,31,Wolverhampton,1,32
+PMD,32,Wolverhampton,1,33
+PMD,33,Wolverhampton,1,34
+PMD,34,Wolverhampton,0,34
+PMD,35,Wolverhampton,1,35
+PMD,36,Wolverhampton,0,35
+PMD,37,Wolverhampton,3,38
+PMD,38,Wolverhampton,0,38
