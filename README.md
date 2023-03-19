@@ -10,6 +10,7 @@ Cup 2022. Every file given above served an important part in this project and th
 * **table.csv** - Data about the current Premier League table (After matchday 26), the predicted point increase in the next 12 matchdays and final standings after matchday 38
 * **Rmarkdown_report.pdf** - The pdf report of the predicted league qualification and relagation with information about every teams current form, explained by use of graphical plot and tables.
 * **R Markdown** - The text and code used to create the report.
-* **power_bi_PL.pbix** - Interactive power bi presentation of the Predicted Results.
-* **PL.pdf** - The pdf format of the power bi presentation.
+* **power_bi_PL.pbix** - Interactive Power BI presentation of the Predicted Results.
+* **PL.pdf** - The pdf format of the Power BI presentation.
 
+If you find an issue or like to subit any improvements to this project, please submit an issue using the issue tab.
