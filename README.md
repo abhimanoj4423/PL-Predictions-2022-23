@@ -4,5 +4,12 @@
 This is a Predictive analytics project, which forecasts the Premier League results from matchday 27 till matchday 38 using the form of all the teams in the PL post World 
 Cup 2022. Every file given above served an important part in this project and they are as follows:
 
-* **FINAL.csv** - holds data about the predicted results ordered by Team and matchdays, also contains the running sum of points after each match.
+### Contents
+
+* **FINAL.csv** - Data about the *running sum* of points after each matchday and the *predicted results of matchdays 27 to 38* ordered by Team and matchdays.
+* **table.csv** - Data about the current Premier League table (After matchday 26), the predicted point increase in the next 12 matchdays and final standings after matchday 38
+* **Rmarkdown_report.pdf** - The pdf report of the predicted league qualification and relagation with information about every teams current form, explained by use of graphical plot and tables.
+* **R Markdown** - The text and code used to create the report.
+* **power_bi_PL.pbix** - Interactive power bi presentation of the Predicted Results.
+* **PL.pdf** - The pdf format of the power bi presentation.
 
