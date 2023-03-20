@@ -13,4 +13,13 @@ Cup 2022. Every file given above served an important part in this project and th
 * **power_bi_PL.pbix** - Interactive Power BI presentation of the Predicted Results.
 * **PL.pdf** - The pdf format of the Power BI presentation.
 
+# Technologies used in this project
+
+* R
+* YAML
+* Rmarkdown
+* csv
+* Power BI
+* Bigquery
+
 If you find an issue or like to subit any improvements to this project, please submit an issue using the issue tab.
