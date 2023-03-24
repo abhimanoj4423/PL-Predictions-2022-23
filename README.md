@@ -22,4 +22,4 @@ Cup 2022. Every file given above served an important part in this project and th
 * Power BI
 * Bigquery
 
-If you find an issue or like to subit any improvements to this project, please submit an issue using the issue tab.
+If you find an issue or like to submit any improvements to this project, please submit an issue using the issue tab.
